@@ -1,16 +1,19 @@
 ## Hi there 👋
+# Hi, I'm Tilak 👋
 
-<!--
-**Tilak2729/Tilak2729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack MERN Developer
 
-Here are some ideas to get you started:
+B.Tech @ MNNIT Allahabad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently Building
+- Ambiqa
+
+💻 Tech Stack
+- React
+- Node.js
+- Express
+- MongoDB
+
+📫 Contact
+LinkedIn
+Email
