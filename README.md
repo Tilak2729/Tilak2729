@@ -1,11 +1,9 @@
 # Hi, I'm Tilak 👋
 
-Full Stack MERN Developer
-
 B.Tech @ MNNIT Allahabad
 
 🚀 Currently Building
-- Ambiqa
+- Kairo
 
 💻 Tech Stack
 - React
