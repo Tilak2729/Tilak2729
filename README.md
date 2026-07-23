@@ -13,4 +13,4 @@ B.Tech @ MNNIT Allahabad
 
 📫 Contact
  - LinkedIn - https://www.linkedin.com/in/tilak-bhandari-2a6481261
- - Email - tilak2709@gmail.com
+ - Email - tilakbhandari2709@gmail.com
